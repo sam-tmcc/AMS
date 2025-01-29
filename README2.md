@@ -1,4 +1,4 @@
-<h3 class="text-xl font-semibold mt-6 mb-2">Web Development Course: Building Assignment Management System</h3>
+<h3 class="text-xl font-semibold mt-6 mb-2">Web Development Course: Building Learning Management System</h3>
 <hr/>
 <h2 class="text-2xl font-semibold mt-6 mb-2">Table of Contents</h2>
 <ol class="list-decimal list-outside ml-4">
